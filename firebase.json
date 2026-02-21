@@ -30,7 +30,7 @@
         "headers": [
           {
             "key": "Content-Type",
-            "value": "text/html; charset=windows-1251"
+            "value": "text/html; charset=utf-8"
           },
           {
             "key": "Cache-Control",
